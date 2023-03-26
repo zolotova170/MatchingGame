@@ -1,0 +1,11 @@
+C:\Users\Михаил\source\repos\MatchingGame-master\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\Михаил\source\repos\MatchingGame-master\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\Михаил\source\repos\MatchingGame-master\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\Михаил\source\repos\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Михаил\source\repos\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\Михаил\source\repos\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\Михаил\source\repos\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\Михаил\source\repos\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.pdb
